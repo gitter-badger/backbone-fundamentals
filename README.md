@@ -1,5 +1,7 @@
 # Developing Backbone.js Applications
 
+[![Join the chat at https://gitter.im/colinmegill/backbone-fundamentals](https://badges.gitter.im/colinmegill/backbone-fundamentals.svg)](https://gitter.im/colinmegill/backbone-fundamentals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About
 
 This is the home of [Developing Backbone.js Applications](http://shop.oreilly.com/product/0636920025344.do), an (in-progress) book about the 
